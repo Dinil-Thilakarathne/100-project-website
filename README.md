@@ -8,7 +8,7 @@
 - [Contact](#contact)
 
 ## Overview:
-- [Visit website](https://github.com/Dinil-Thilakarathne/50-css-projects/tree/main/currency%20converter)
+- [Visit website](https://dinil-thilakarathne.github.io/100-project-website/)
 - [CSS  Repo](https://dinil-thilakarathne.github.io/50-css-projects/)
 - [JS  Repo](https://dinil-thilakarathne.github.io/50-js-projects/)
 
